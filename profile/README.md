@@ -109,3 +109,30 @@
 <img src="https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
 <img src="https://img.shields.io/badge/aws%20s3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white">
 </div>
+
+# 6. 시연 영상
+<h2> 로그인 / 회원가입 </h2>
+<img src="https://github.com/user-attachments/assets/00b47682-f963-404c-8909-06f05015fb02">
+
+<h2> 글쓰기 / 요약</h2>
+<img src="https://github.com/user-attachments/assets/b5215472-1f66-4a34-88f7-cb3deb20ac4f">
+
+<h2> ReadMe 자동 생성 </h2>
+<img src="https://github.com/user-attachments/assets/62f04eb9-9979-45bb-9dc8-b3bd6ab2faf2">
+  
+<h2> 팀원 매칭 </h2>
+<img src="https://github.com/user-attachments/assets/db8698a3-3957-4a98-9611-10e1c1f1585c">
+
+<h2> 포트폴리오 초안 생성 </h2>
+<img src="https://github.com/user-attachments/assets/1c44a874-7835-4c2f-8fc8-ea39b2fbc84c">
+
+<h2> 채팅 </h2>
+<img src="https://github.com/user-attachments/assets/41f6477a-24bb-4e7e-8b64-97bbc7f817d3">
+
+<h2> 알림 </h2>
+<img src="https://github.com/user-attachments/assets/e0e7d9b5-705e-4ec1-a74f-5b2ba0879221">
+
+<h2> 로드맵 추천 </h2>
+<img src="https://github.com/user-attachments/assets/920b8d3d-d78b-4bc9-ac69-0d9e995780f5">
+
+
