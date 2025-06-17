@@ -135,4 +135,22 @@
 <h2> 로드맵 추천 </h2>
 <img src="https://github.com/user-attachments/assets/920b8d3d-d78b-4bc9-ac69-0d9e995780f5">
 
+# 7. 인프라 & 아키텍처
+<h2> CI/CD </h2>
+<img width="580" alt="image" src="https://github.com/user-attachments/assets/9e769174-6623-4f3c-9b24-6a994ca7014e" />
+
+<h2> 아키텍처 </h2>
+<h3>API GATEWAY</h3>
+<img width="1334" alt="image" src="https://github.com/user-attachments/assets/318fa599-2b40-42b1-9410-c148dcb618d6" />
+
+<h3>CONFIG</h3>
+<img width="734" alt="image" src="https://github.com/user-attachments/assets/de950654-ed70-4246-b26e-638411953ee8" />
+
+<h2> 모니터링 </h2>
+<img width="1014" alt="image" src="https://github.com/user-attachments/assets/4384b5f6-a96d-4bcc-8b56-b64dd19fa831" />
+
+
+
+
+
 
